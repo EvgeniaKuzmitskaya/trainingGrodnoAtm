@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="trainingGrodno:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/trainingGrodno_jar</output-path>
+    <root id="archive" name="trainingGrodno.jar">
+      <element id="module-output" name="trainingGrodno" />
+    </root>
+  </artifact>
+</component>
